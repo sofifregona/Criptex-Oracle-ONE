@@ -1,4 +1,4 @@
-//Link buttons
+//Linked buttons
 var buttonEncrypt = document.querySelector("#btn-encrypt");
 var buttonDecrypt = document.querySelector("#btn-decrypt");
 var buttonCopy = document.querySelector("#btn-copy");
